@@ -17,6 +17,7 @@
     "jest": "^24.8.0"
   },
   "devDependencies": {
+    "faker": "^4.1.0",
     "jsdoc": "^3.6.2"
   }
 }
